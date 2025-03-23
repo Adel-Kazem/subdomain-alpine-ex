@@ -1,6 +1,5 @@
 const PRODUCTS = [
   {
-  {
     id: 3,
     name: "Minima nostrud volup",
     description: "Sed ab cillum magna",
