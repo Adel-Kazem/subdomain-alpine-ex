@@ -22,5 +22,13 @@ const PRODUCTS = [
     price: 20,
     image: "https://raw.githubusercontent.com/Adel-Kazem/subdomain-alpine-ex/main/products_images/elle-leonardo-dicaprio-toast-inception-warner-bros-pictures_1.jpg",
     rating: 5
+  },
+  {
+    id: 8,
+    name: "Reprehenderit enim r",
+    description: "Culpa hic explicabo",
+    price: 80,
+    image: "https://raw.githubusercontent.com/Adel-Kazem/subdomain-alpine-ex/main/products_images/Belts-Style-Image-3.jpg",
+    rating: 5
   }
 ];
