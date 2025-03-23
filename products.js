@@ -22,5 +22,13 @@ const PRODUCTS = [
     price: 25,
     image: "https://raw.githubusercontent.com/Adel-Kazem/subdomain-alpine-ex/main/products_images/belt-wolf-of-wallstreet-leonardo-di-caprio-v0-qd479m2ochjb1.webp",
     rating: 5
+  },
+  {
+    id: 7,
+    name: "Sed non dolor evenie",
+    description: "Sit ex maiores ea qu",
+    price: 20,
+    image: "https://raw.githubusercontent.com/Adel-Kazem/subdomain-alpine-ex/main/products_images/elle-leonardo-dicaprio-toast-inception-warner-bros-pictures_1.jpg",
+    rating: 5
   }
 ];
