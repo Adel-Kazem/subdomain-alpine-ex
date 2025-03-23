@@ -14,5 +14,13 @@ const PRODUCTS = [
     price: 14,
     image: "https://raw.githubusercontent.com/Adel-Kazem/subdomain-alpine-ex/main/products_images/elle-leonardo-dicaprio-toast-inception-warner-bros-pictures_1.jpg",
     rating: 5
+  },
+  {
+    id: 6,
+    name: "Magnam consequatur",
+    description: "Porro ratione est m",
+    price: 25,
+    image: "https://raw.githubusercontent.com/Adel-Kazem/subdomain-alpine-ex/main/products_images/belt-wolf-of-wallstreet-leonardo-di-caprio-v0-qd479m2ochjb1.webp",
+    rating: 5
   }
 ];
