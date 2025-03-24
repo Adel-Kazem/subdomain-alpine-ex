@@ -22,5 +22,13 @@ const PRODUCTS = [
     price: 80,
     image: "https://raw.githubusercontent.com/Adel-Kazem/subdomain-alpine-ex/main/products_images/Belts-Style-Image-3.jpg",
     rating: 5
+  },
+  {
+    id: 9,
+    name: "Nihil non temporibus",
+    description: "Voluptatem Autem do",
+    price: 2,
+    image: "https://raw.githubusercontent.com/Adel-Kazem/subdomain-alpine-ex/main/products_images/Allen-Edmonds-Newland-Ave-dresscasual-belt.jpg",
+    rating: 5
   }
 ];
